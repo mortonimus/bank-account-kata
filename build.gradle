@@ -9,7 +9,7 @@ subprojects { subprojects ->
     group = "org.acmebank.katas.bankaccount"
     
     repositories {
-        jcenter()
+        mavenCentral()
     }
 
 }
